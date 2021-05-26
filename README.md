@@ -1,4 +1,5 @@
-# Rinshinehttps://github.com/rosejames10/Rinshine/blob/main/WhatsApp%20Image%202021-05-26%20at%204.10.33%20PM.jpeg
+
+https://github.com/rosejames10/Rinshine/blob/main/WhatsApp%20Image%202021-05-26%20at%204.10.33%20PM.jpeg
 
 ## **Rinshine**
   We have used Flask API to represent our content. We have created the option for registration for a new user and then login. First we have made the registration and linked the file to firebase.
